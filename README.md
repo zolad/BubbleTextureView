@@ -40,8 +40,8 @@ Usage
      *
      * @param radius       float,pixels,  the corner radius of each corner.
      * @param arrowSize    float,range (0f<arrowSize<1.0f) the size percent of arrow
-     * @param arrowDirection  boolean,true is left,false is right, the direction of arrow
      * @param arrowOffsetFromCenter  float,range  (-1.0f<arrowSize<1.0f) arrow offset from center
+     * @param arrowDirection  boolean,true is left,false is right, the direction of arrow
      */
   mBubbleTextureView.setCornerRadiusAndArrow(40,0.12f, 0.6f,true);
   
